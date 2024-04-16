@@ -1,9 +1,9 @@
  .u-section-1 {
-  background-image: none;
+  background-image: url("images/estrellasrojas.gif");
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 857px;
+  min-height: 917px;
 }
 
 .u-section-1 .u-group-elements-1 {
@@ -190,6 +190,10 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1310px;
+  }
+
   .u-section-1 .u-group-1 {
     width: 540px;
   }
@@ -209,14 +213,11 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1103px;
+    min-height: 1108px;
   }
 
   .u-section-1 .u-group-elements-1 {
-    margin-top: 27px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 340px;
   }
 
   .u-section-1 .u-btn-1 {
@@ -239,11 +240,7 @@
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 875px;
-    margin-top: 56px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 340px;
   }
 
   .u-section-1 .u-image-1 {
