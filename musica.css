@@ -235,7 +235,7 @@
 	   
 	}
 	.contenedor iframe {
-		width:400px;
+		width:100%;
 		height:270px;
 		top:0px;
 		position:center;
@@ -244,7 +244,7 @@
     padding: 0px;
     background-color: #000;
     color: #000;
-    width: 400px;
+    width: 340px;
 	height: 270px;
     font-size: 1.2em;
     box-shadow: 0 0 40px  #ffffff;
